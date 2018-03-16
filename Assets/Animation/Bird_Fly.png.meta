@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: db9f555a7ab7d43d9809f3427ebb429f
+timeCreated: 1430205654
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bird_Fly_0
+    21300002: Bird_Fly_1
+    21300004: Bird_Fly_2
+    21300006: Bird_Fly_3
+    21300008: Bird_Fly_4
+    21300010: Bird_Fly_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bird_Fly_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 183
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird_Fly_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 194
+        width: 127
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird_Fly_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 183
+        width: 118
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird_Fly_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 51
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird_Fly_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 12
+        width: 71
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird_Fly_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 12
+        width: 114
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

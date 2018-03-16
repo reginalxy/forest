@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 2cf593f8233e2d641a3fa9317cd2f919
+timeCreated: 1433241961
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zhizhu_0
+    21300002: zhizhu_1
+    21300004: zhizhu_2
+    21300006: zhizhu_3
+    21300008: zhizhu_4
+    21300010: zhizhu_5
+    21300012: zhizhu_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zhizhu_0
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 194
+        width: 204
+        height: 1051
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zhizhu_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 193
+        width: 213
+        height: 946
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zhizhu_2
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 196
+        width: 207
+        height: 783
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zhizhu_3
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 199
+        width: 208
+        height: 687
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zhizhu_4
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 199
+        width: 205
+        height: 622
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zhizhu_5
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 205
+        width: 214
+        height: 505
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zhizhu_6
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 194
+        width: 206
+        height: 406
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

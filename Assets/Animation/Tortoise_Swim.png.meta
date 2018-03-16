@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: ee9c3036b8339b746a6a286f811b26c1
+timeCreated: 1433327762
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tortoise_Swim_0
+    21300002: Tortoise_Swim_1
+    21300004: Tortoise_Swim_2
+    21300006: Tortoise_Swim_3
+    21300008: Tortoise_Swim_4
+    21300010: Tortoise_Swim_5
+    21300012: Tortoise_Swim_6
+    21300014: Tortoise_Swim_7
+    21300016: Tortoise_Swim_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tortoise_Swim_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 797
+        width: 327
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tortoise_Swim_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 797
+        width: 325
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tortoise_Swim_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 797
+        width: 324
+        height: 275
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tortoise_Swim_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 425
+        width: 323
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tortoise_Swim_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 425
+        width: 319
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tortoise_Swim_5
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 419
+        width: 319
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tortoise_Swim_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 71
+        width: 319
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tortoise_Swim_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 60
+        width: 321
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tortoise_Swim_8
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 70
+        width: 313
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

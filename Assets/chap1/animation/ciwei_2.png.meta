@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 3717574f350b14c36ba889f141fc6ec6
+timeCreated: 1434306147
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ciwei_2_0
+    21300002: ciwei_2_1
+    21300004: ciwei_2_2
+    21300006: ciwei_2_3
+    21300008: ciwei_2_4
+    21300010: ciwei_2_5
+    21300012: ciwei_2_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ciwei_2_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 771
+        width: 661
+        height: 426
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciwei_2_1
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 774
+        width: 661
+        height: 428
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciwei_2_2
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 767
+        width: 660
+        height: 429
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciwei_2_3
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 767
+        width: 658
+        height: 427
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciwei_2_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 152
+        width: 657
+        height: 433
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciwei_2_5
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 191
+        width: 654
+        height: 429
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciwei_2_6
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 189
+        width: 655
+        height: 433
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 0b2680e65eb5a1d43858181119871329
+timeCreated: 1433334768
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hound_0
+    21300002: hound_1
+    21300004: hound_2
+    21300006: hound_3
+    21300008: hound_4
+    21300010: hound_5
+    21300012: hound_6
+    21300014: hound_7
+    21300016: hound_8
+    21300018: hound_9
+    21300020: hound_10
+    21300022: hound_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hound_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 817
+        width: 271
+        height: 429
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hound_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 817
+        width: 266
+        height: 423
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hound_2
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 832
+        width: 265
+        height: 423
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hound_3
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 832
+        width: 267
+        height: 434
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hound_4
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 832
+        width: 283
+        height: 434
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hound_5
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 802
+        width: 284
+        height: 436
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hound_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 303
+        width: 275
+        height: 432
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hound_7
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 274
+        width: 267
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hound_8
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 273
+        width: 304
+        height: 431
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hound_9
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 273
+        width: 295
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hound_10
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 274
+        width: 287
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hound_11
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 274
+        width: 286
+        height: 429
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

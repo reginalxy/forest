@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: cb68fea9e99714061a15997e31321aaf
+timeCreated: 1432805615
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Suirrel_Climb_0
+    21300002: Suirrel_Climb_1
+    21300004: Suirrel_Climb_2
+    21300006: Suirrel_Climb_3
+    21300008: Suirrel_Climb_4
+    21300010: Suirrel_Climb_5
+    21300012: Suirrel_Climb_6
+    21300014: Suirrel_Climb_7
+    21300016: Suirrel_Climb_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Suirrel_Climb_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 954
+        width: 335
+        height: 287
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Suirrel_Climb_1
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 924
+        width: 347
+        height: 308
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Suirrel_Climb_2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 899
+        width: 348
+        height: 328
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Suirrel_Climb_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 521
+        width: 342
+        height: 347
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Suirrel_Climb_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 499
+        width: 340
+        height: 369
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Suirrel_Climb_5
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 518
+        width: 342
+        height: 349
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Suirrel_Climb_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 90
+        width: 343
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Suirrel_Climb_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 112
+        width: 348
+        height: 313
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Suirrel_Climb_8
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 129
+        width: 346
+        height: 296
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

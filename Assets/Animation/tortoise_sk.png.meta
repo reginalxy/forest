@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 6649158707e1f4446b919f5d2595a079
+timeCreated: 1433331577
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tortoise_sk_0
+    21300002: tortoise_sk_1
+    21300004: tortoise_sk_2
+    21300006: tortoise_sk_3
+    21300008: tortoise_sk_4
+    21300010: tortoise_sk_5
+    21300012: tortoise_sk_6
+    21300014: tortoise_sk_7
+    21300016: tortoise_sk_8
+    21300018: tortoise_sk_9
+    21300020: tortoise_sk_10
+    21300022: tortoise_sk_11
+    21300024: tortoise_sk_12
+    21300026: tortoise_sk_13
+    21300028: tortoise_sk_14
+    21300030: tortoise_sk_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tortoise_sk_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1002
+        width: 306
+        height: 279
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_1
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1002
+        width: 300
+        height: 279
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1002
+        width: 288
+        height: 279
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_3
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1003
+        width: 267
+        height: 278
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_4
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1009
+        width: 246
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 699
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 704
+        width: 226
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_7
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 697
+        width: 290
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_8
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 704
+        width: 214
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_9
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 704
+        width: 214
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 390
+        width: 214
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 387
+        width: 214
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_12
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 383
+        width: 214
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_13
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 396
+        width: 196
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_14
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 407
+        width: 177
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tortoise_sk_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 112
+        width: 226
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
